@@ -1,0 +1,7 @@
+{
+  "name": "piano-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
